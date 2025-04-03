@@ -1,2 +1,4 @@
-print ("oi")
-print ("Hello world")
+print("estou aqui")
+
+
+print("Mds que lugarzinho bom")
